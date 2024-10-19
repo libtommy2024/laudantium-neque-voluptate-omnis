@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/laudantium-neque-voluptate-omnis",
-  "version": "5.25.150",
+  "version": "5.25.151",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -518,5 +518,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/laudantium-neque-voluptate-omnis/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
